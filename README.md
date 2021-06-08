@@ -1,3 +1,7 @@
+# This repository is a preparatory exercise for an interview @Magic Makers, a company aimed at making kids learn coding in a playful way!
+The goal was to create a very simple app with a story that changes depending on your actions and choices.
+I went for the very classic Hogwarts sorting hat ceremony :)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
